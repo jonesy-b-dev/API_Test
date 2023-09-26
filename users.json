@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "email": "Winona0@example.org",
+            "password": "3a84bf694f4b6a5a2f4468f6ab03edbc629f2a6671a41098708d6426f53abcd80820c3925c93321fa2fe2d412445fb3f0baf753ff57dd0a57bb5ec52d9167fb2"
+        },
+        {
+            "email": "Grant_Aufderhar5@example.net",
+            "password": "3a84bf694f4b6a5a2f4468f6ab03edbc629f2a6671a41098708d6426f53abcd80820c3925c93321fa2fe2d412445fb3f0baf753ff57dd0a57bb5ec52d9167fb2"
+        },
+        {
+            "email": "asdfghj",
+            "password": "3a84bf694f4b6a5a2f4468f6ab03edbc629f2a6671a41098708d6426f53abcd80820c3925c93321fa2fe2d412445fb3f0baf753ff57dd0a57bb5ec52d9167fb2"
+        },
+        {
+            "email": "Kip82@example.com",
+            "password": "3a84bf694f4b6a5a2f4468f6ab03edbc629f2a6671a41098708d6426f53abcd80820c3925c93321fa2fe2d412445fb3f0baf753ff57dd0a57bb5ec52d9167fb2"
+        },
+        {
+            "email": "Alvina.Jacobs@example.net",
+            "password": "3a84bf694f4b6a5a2f4468f6ab03edbc629f2a6671a41098708d6426f53abcd80820c3925c93321fa2fe2d412445fb3f0baf753ff57dd0a57bb5ec52d9167fb2"
+        }
+    ]
+}

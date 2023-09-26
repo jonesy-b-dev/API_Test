@@ -1,0 +1,110 @@
+{
+  "dogs": [
+    {
+      "id": 0,
+      "breed": "Belgian Malinois",
+      "age": 10,
+      "weight": 13.5,
+      "name": "Luke",
+      "credit_card": 1234567890,
+      "owners": [
+        {
+          "Name": "John",
+          "Age": 16
+        },
+        {
+          "Name": "Jan",
+          "Age": 45
+        },
+        {
+          "Name": "Gerda",
+          "Age": 44
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "breed": "Belgian Malinois",
+      "age": 2,
+      "weight": 16.5,
+      "name": "Whatthedog",
+      "credit_card": 1234567890,
+      "owners": [
+        {
+          "Name": "Ben",
+          "Age": 16
+        },
+        {
+          "Name": "Joe",
+          "Age": 45
+        },
+        {
+          "Name": "Luuk",
+          "Age": 44
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "breed": "Belgian Malinois",
+      "age": 2,
+      "weight": 16.5,
+      "name": "Whatthedog",
+      "credit_card": 1234567890,
+      "owners": [
+        {
+          "Name": "Ben",
+          "Age": 16
+        },
+        {
+          "Name": "Joe",
+          "Age": 45
+        },
+        {
+          "Name": "Luuk",
+          "Age": 44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "breed": "Belgian Malinois",
+      "age": 2,
+      "weight": 16.5,
+      "name": "Whatthedog",
+      "credit_card": 1234567890,
+      "owners": [
+        {
+          "Name": "Ben",
+          "Age": 16
+        },
+        {
+          "Name": "Joe",
+          "Age": 45
+        },
+        {
+          "Name": "Luuk",
+          "Age": 44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "breed": "Belgian Malinois",
+      "age": 2,
+      "weight": 16.5,
+      "name": "Whatthedog",
+      "credit_card": 1234567890,
+      "owners": [
+        {
+          "Name": "Joe",
+          "Age": 45
+        },
+        {
+          "Name": "Luuk",
+          "Age": 44
+        }
+      ]
+    }
+  ]
+}
